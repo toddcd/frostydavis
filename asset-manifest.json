@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/frostydavis/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/frostydavis/static/js/main.053353c5.chunk.js",
-    "main.js.map": "/frostydavis/static/js/main.053353c5.chunk.js.map",
-    "runtime-main.js": "/frostydavis/static/js/runtime-main.401b60d5.js",
-    "runtime-main.js.map": "/frostydavis/static/js/runtime-main.401b60d5.js.map",
-    "static/js/2.c904a289.chunk.js": "/frostydavis/static/js/2.c904a289.chunk.js",
-    "static/js/2.c904a289.chunk.js.map": "/frostydavis/static/js/2.c904a289.chunk.js.map",
-    "static/js/3.a8e095b7.chunk.js": "/frostydavis/static/js/3.a8e095b7.chunk.js",
-    "static/js/3.a8e095b7.chunk.js.map": "/frostydavis/static/js/3.a8e095b7.chunk.js.map",
+    "main.js": "/frostydavis/static/js/main.e295abfb.chunk.js",
+    "main.js.map": "/frostydavis/static/js/main.e295abfb.chunk.js.map",
+    "runtime-main.js": "/frostydavis/static/js/runtime-main.5c89ae6e.js",
+    "runtime-main.js.map": "/frostydavis/static/js/runtime-main.5c89ae6e.js.map",
+    "static/js/2.4c055baa.chunk.js": "/frostydavis/static/js/2.4c055baa.chunk.js",
+    "static/js/2.4c055baa.chunk.js.map": "/frostydavis/static/js/2.4c055baa.chunk.js.map",
+    "static/js/3.8f712394.chunk.js": "/frostydavis/static/js/3.8f712394.chunk.js",
+    "static/js/3.8f712394.chunk.js.map": "/frostydavis/static/js/3.8f712394.chunk.js.map",
     "index.html": "/frostydavis/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/frostydavis/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.c904a289.chunk.js.LICENSE.txt": "/frostydavis/static/js/2.c904a289.chunk.js.LICENSE.txt"
+    "static/js/2.4c055baa.chunk.js.LICENSE.txt": "/frostydavis/static/js/2.4c055baa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.401b60d5.js",
-    "static/js/2.c904a289.chunk.js",
+    "static/js/runtime-main.5c89ae6e.js",
+    "static/js/2.4c055baa.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.053353c5.chunk.js"
+    "static/js/main.e295abfb.chunk.js"
   ]
 }
