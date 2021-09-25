@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frostydavis/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/frostydavis/static/js/main.cd1d8f9b.chunk.js",
+    "main.js.map": "/frostydavis/static/js/main.cd1d8f9b.chunk.js.map",
+    "runtime-main.js": "/frostydavis/static/js/runtime-main.a9b79dba.js",
+    "runtime-main.js.map": "/frostydavis/static/js/runtime-main.a9b79dba.js.map",
+    "static/js/2.c606668d.chunk.js": "/frostydavis/static/js/2.c606668d.chunk.js",
+    "static/js/2.c606668d.chunk.js.map": "/frostydavis/static/js/2.c606668d.chunk.js.map",
+    "static/js/3.d866fed7.chunk.js": "/frostydavis/static/js/3.d866fed7.chunk.js",
+    "static/js/3.d866fed7.chunk.js.map": "/frostydavis/static/js/3.d866fed7.chunk.js.map",
+    "index.html": "/frostydavis/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/frostydavis/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c606668d.chunk.js.LICENSE.txt": "/frostydavis/static/js/2.c606668d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/frostydavis/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9b79dba.js",
+    "static/js/2.c606668d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.cd1d8f9b.chunk.js"
+  ]
+}
