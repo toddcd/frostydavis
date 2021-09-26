@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/frostydavis/static/css/main.57ca0c75.chunk.css",
-    "main.js": "/frostydavis/static/js/main.d642cf7e.chunk.js",
-    "main.js.map": "/frostydavis/static/js/main.d642cf7e.chunk.js.map",
+    "main.js": "/frostydavis/static/js/main.aec87f57.chunk.js",
+    "main.js.map": "/frostydavis/static/js/main.aec87f57.chunk.js.map",
     "runtime-main.js": "/frostydavis/static/js/runtime-main.406d1e47.js",
     "runtime-main.js.map": "/frostydavis/static/js/runtime-main.406d1e47.js.map",
     "static/js/2.485825d1.chunk.js": "/frostydavis/static/js/2.485825d1.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.406d1e47.js",
     "static/js/2.485825d1.chunk.js",
     "static/css/main.57ca0c75.chunk.css",
-    "static/js/main.d642cf7e.chunk.js"
+    "static/js/main.aec87f57.chunk.js"
   ]
 }
